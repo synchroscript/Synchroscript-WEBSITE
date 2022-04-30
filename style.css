@@ -1,0 +1,17 @@
+*{
+          margin: 0;
+          padding: 0;
+          background-color: black;
+          color: white;
+}
+
+body{
+          background-color: black;
+}
+
+h2:hover{
+          color: white;
+}
+h2{
+          color: yellowgreen;
+}
